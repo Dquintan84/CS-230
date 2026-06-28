@@ -1,6 +1,7 @@
 # CS-230
 CS-230 PORTFOLIO
-The client for this project was The Gaming Room. They wanted to expand their game, *Draw It or Lose It*, from Android to a web-based application that could run on different operating systems. 
+
+The client for this project was The Gaming Room. They wanted to expand their game, Draw It or Lose It, from Android to a web-based application that could run on different operating systems. 
 The software needed to support multiple players and teams at the same time while keeping game data organized and secure. The application also needed to be reliable, easy to maintain, and able to grow as more users joined. 
 The goal was to design software that would work well now and continue to meet the client's needs in the future.
 
